@@ -30,7 +30,6 @@
 ## Certificates
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-45c1f880-d0f4-47d7-ba80-6b72780ea5c6.jpg" width='350'>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelilkanayev1997&show_icons=true&locale=en&layout=compact" alt="michaelilkanayev1997" /></p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelilkanayev1997&hide_progress=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelilkanayev1997&" alt="michaelilkanayev1997" /></p>
