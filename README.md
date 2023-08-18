@@ -13,6 +13,7 @@
 - 💪 I'm highly motivated, serious person, very curious and paying attention to the little details.
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **michaelilkanayev@gmail.com**
+- 🌐 Portfolio: [michaelilkanayev.com](https://michaelilkanayev.com)
 
 #
 <h3 align="left">Connect with me:</h3>
