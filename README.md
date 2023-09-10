@@ -22,9 +22,6 @@
 <a href="https://stackoverflow.com/users/17321502/michael-ilkanayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17321502/michael-ilkanayev" height="30" width="40" /></a>
 <a href="https://instagram.com/michael_ilkanayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michael_ilkanayev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@michaelilkanayev9593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="michaelilkanayev9593" height="30" width="40" /></a>
-  <a href="https://www.michaelilkanayev.com" target="blank">
-    <img align="center" src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/99fcf932-0b70-4b73-9cf4-a9ea5a0851d5" alt="michaelilkanayev.com" height="30" width="35" />
-  </a>
 </p>
 
 #
