@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+ <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/25bfcc6f-7054-4944-b698-f502d929a31b" width="400"/>
 </h1>
 <div id="header" align="center">
  <h1 align="center">Hi 👋, I'm Michael Ilkanayev</h1>
