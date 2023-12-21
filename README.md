@@ -3,7 +3,8 @@
  <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/25bfcc6f-7054-4944-b698-f502d929a31b" width="400"/>
 </h1>
 <div id="header" align="center">
- <h1 align="center">Hi 👋, I'm Michael Ilkanayev</h1>
+  <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/627cda00-43a1-416a-8fd4-576fd22ef854" width="500"/>
+
 </div>
 
 ##     <p align = "center"> Full Stack Developer | Software Engineer </p>
@@ -44,3 +45,6 @@ Certificates that showcase my achievements and dedication in my learning journey
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelilkanayev1997&hide_progress=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelilkanayev1997&" alt="michaelilkanayev1997" /></p>
+
+
+ <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/37ba2016-977c-40fb-bb4d-fde83efec0db" width="400"/>
