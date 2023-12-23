@@ -44,9 +44,8 @@ Certificates that showcase my achievements and dedication in my learning journey
 
 ## GitHub Analytics:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelilkanayev1997&hide_progress=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelilkanayev1997&" alt="michaelilkanayev1997" /></p>
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelilkanayev1997&hide_progress=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=michaelilkanayev1997&) 
+| :-: | :-: |
 
 
  <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/37ba2016-977c-40fb-bb4d-fde83efec0db" width="400"/>
