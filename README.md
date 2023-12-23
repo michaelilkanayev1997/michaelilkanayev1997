@@ -12,7 +12,7 @@
 
 - 🎓 I seek a student position or junior position in a growing technology company.
 - 💪 I'm highly motivated, serious person, very curious and paying attention to the little details.
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React/React-Native** **⚛️** 
 - 📫 How to reach me **michaelilkanayev@gmail.com**
 - 🌐 Portfolio: [michaelilkanayev.com](https://michaelilkanayev.com)
 
