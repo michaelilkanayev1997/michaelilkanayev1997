@@ -52,4 +52,6 @@ Certificates that showcase my achievements and dedication in my learning journey
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelilkanayev1997&theme=nord_dark&rndm=456) | ![](https://github-readme-streak-stats.herokuapp.com/?user=michaelilkanayev1997&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff&rndm=789) |
 | :-: | :-: |
 
+<div align="center">
  <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/37ba2016-977c-40fb-bb4d-fde83efec0db" width="400"/>
+</div>
