@@ -49,7 +49,7 @@ Certificates that showcase my achievements and dedication in my learning journey
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=michaelilkanayev1997&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelilkanayev1997&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michaelilkanayev1997&theme=nord_dark&rndm=123) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelilkanayev1997&theme=nord_dark&rndm=456) | ![](https://github-readme-streak-stats.herokuapp.com/?user=michaelilkanayev1997&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff&rndm=789) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelilkanayev1997&theme=nord_dark&rndm=456) | ![](https://github-readme-streak-stats.herokuapp.com/?user=michaelilkanayev1997&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
 <div align="center">
