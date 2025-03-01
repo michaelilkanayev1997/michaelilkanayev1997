@@ -41,7 +41,7 @@
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-f923fe11-2e24-4a11-bb2f-eb2499e08417.jpg?v=1692396219000" width="250px" alt="Certificate 7">
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0e33df7a-5d2f-4bc7-840d-c9411cf25042.jpg?v=1694096510000" width="250px" alt="Certificate 8">
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7561e569-034c-4d9a-bc76-9e80d3622684.jpg?v=1729338673000" width="250px" alt="Certificate 9">
- 
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-6d7393b4-cf32-4a8f-bb89-80c77e412e7f.jpg?v=1740861674000" width="250px" alt="Certificate 10">
 </div>
 
 
