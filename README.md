@@ -1,7 +1,9 @@
-
+<!-- 
 <h1 align="center">
- <img src="MichaelIlkanayevGIF.gif" width="400"/>
-</h1>
+  <img src="MichaelIlkanayevGIF.gif" width="400"/>
+</h1> 
+-->
+
 <div id="header" align="center">
   <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/627cda00-43a1-416a-8fd4-576fd22ef854" width="500"/>
 
