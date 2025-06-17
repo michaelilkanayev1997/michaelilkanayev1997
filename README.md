@@ -63,7 +63,7 @@ Certificates that showcase my achievements and dedication in my learning journey
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=michaelilkanayev1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h2 align="center">Featured Project Demos</h2>
+<h2 align="center">Featured Project Demo Videos</h2>
 <p align="center">Some of my real-world projects, including full-stack platforms, dashboards, and mobile apps.</p>
 
 <table align="center">
