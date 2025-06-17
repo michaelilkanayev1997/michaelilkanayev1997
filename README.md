@@ -63,6 +63,50 @@ Certificates that showcase my achievements and dedication in my learning journey
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=michaelilkanayev1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<h2 align="center">Featured Project Demos</h2>
+<p align="center">Some of my real-world projects, including full-stack platforms, dashboards, and mobile apps.</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=8gUwShozOik" target="_blank">
+        <img src="https://img.youtube.com/vi/8gUwShozOik/0.jpg" width="300" alt="CancerJourney App Demo"/>
+        <br/>
+        <b>💡 CancerJourney – MERN App</b><br/>
+        <sub>React Native · TypeScript · Node.js · <b>AWS</b> · Redux · MongoDB</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=VTx7-zmVHDo" target="_blank">
+        <img src="https://img.youtube.com/vi/VTx7-zmVHDo/0.jpg" width="300" alt="Portfolio Website"/>
+        <br/>
+        <b>🌐 My Portfolio</b><br/>
+        <sub>React · Tailwind CSS · GSAP · tsParticles · Netlify · <b>PWA</b> · Animations</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=03zNfLs8VT8" target="_blank">
+        <img src="https://img.youtube.com/vi/03zNfLs8VT8/0.jpg" width="300" alt="MealsToGo App"/>
+        <br/>
+        <b>🍽️ MealsToGo – Delivery App</b><br/>
+        <sub><b>React Native</b> · Firebase · Geolocation · Google Maps API · Context</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=PMsAm4yWlOA" target="_blank">
+        <img src="https://img.youtube.com/vi/PMsAm4yWlOA/0.jpg" width="300" alt="Game of Death Project"/>
+        <br/>
+        <b>🎮 Game of Death</b><br/>
+        <sub>Unreal Engine · C++ · Blueprints · Inspired by Bruce Lee’s legend</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <div align="center">
  <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/37ba2016-977c-40fb-bb4d-fde83efec0db" width="400"/>
 </div>
