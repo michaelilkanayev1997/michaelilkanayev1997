@@ -63,6 +63,7 @@ Certificates that showcase my achievements and dedication in my learning journey
 | :-: | :-: |
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=michaelilkanayev1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2 align="center">Featured Project Demo Videos</h2>
@@ -107,7 +108,7 @@ Certificates that showcase my achievements and dedication in my learning journey
   </tr>
 </table>
 
-
+<br> <!-- Adds vertical space -->
 
 <div align="center">
  <img src="https://github.com/michaelilkanayev1997/michaelilkanayev1997/assets/93651794/37ba2016-977c-40fb-bb4d-fde83efec0db" width="400"/>
