@@ -62,6 +62,12 @@ Certificates that showcase my achievements and dedication in my learning journey
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelilkanayev1997&theme=nord_dark&rndm=456) | ![](https://github-readme-streak-stats.herokuapp.com/?user=michaelilkanayev1997&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelilkanayev1997&theme=react-dark" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=michaelilkanayev1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
