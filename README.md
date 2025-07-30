@@ -64,7 +64,7 @@ Certificates that showcase my achievements and dedication in my learning journey
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelilkanayev1997&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelilkanayev1997&theme=react-dark&days=40" />
 </p>
 
 
