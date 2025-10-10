@@ -12,7 +12,7 @@
 ##     <p align = "center"> Full Stack Developer | Software Engineer </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelilkanayev1997&label=Profile%20views&color=0e75b6&style=flat" alt="michaelilkanayev1997" /> </p>
 
-- 💼 I’m a Full Stack Developer with 2.5+ years of experience building and deploying web and mobile applications.
+- 💼 I’m a Full Stack Developer with 3+ years of experience building and deploying web and mobile applications.
 - 💪 I'm highly motivated, serious person, very curious and paying attention to the little details.
 - 📚 Constantly learning through hands-on projects, Udemy courses, and real-world deployment challenges.
 - 📫 How to reach me **michaelilkanayev@gmail.com**
